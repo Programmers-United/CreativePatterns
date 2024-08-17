@@ -1,0 +1,14 @@
+# ninja log v6
+37	1424	7455557844404222	CMakeFiles/new_target.dir/Main.cpp.obj	5b5f00fbde0427f9
+2034	2999	7455557864384365	new_target.exe	17a9fcffc20f1664
+143	1781	7455540875807338	CMakeFiles/new_target.dir/ConcretPatterns/Mago.cpp.obj	ca48498c1a9e3052
+69	1530	7455540875069238	CMakeFiles/new_target.dir/ConcretPatterns/Guerreiro.cpp.obj	49d519aa9e95576c
+6	1035	7455566468803040	build.ninja	5b44352932267efa
+104	1919	7455557845082495	CMakeFiles/new_target.dir/Game/Game.cpp.obj	a581c41c48d6a3b6
+191	2034	7455557845946568	CMakeFiles/new_target.dir/ConcretPatterns/Ninja.cpp.obj	d4ed52bebf5f5fcf
+29	1251	7455566629692418	CMakeFiles/new_target.dir/Main.cpp.obj	808a9e35976f0ec
+90	1695	7455566630296393	CMakeFiles/new_target.dir/ConcretPatterns/Guerreiro.cpp.obj	72ec58133be579ef
+178	2021	7455566631172782	CMakeFiles/new_target.dir/ConcretPatterns/Mago.cpp.obj	d9a63fd574d97fb2
+255	2624	7455566631952872	CMakeFiles/new_target.dir/Game/Game.cpp.obj	d8fc3b427a9c2967
+339	2818	7455566632791117	CMakeFiles/new_target.dir/ConcretPatterns/Ninja.cpp.obj	26bdf22c5349953f
+2818	3728	7455566657578855	new_target.exe	17a9fcffc20f1664
