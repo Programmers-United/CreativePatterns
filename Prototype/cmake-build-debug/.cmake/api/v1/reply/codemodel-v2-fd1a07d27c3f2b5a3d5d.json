@@ -45,8 +45,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Silva/Desktop/CreativePatterns/cmake-build-debug",
-		"source" : "C:/Users/Silva/Desktop/CreativePatterns"
+		"build" : "C:/Users/Silva/Desktop/CreativePatterns/Prototype/cmake-build-debug",
+		"source" : "C:/Users/Silva/Desktop/CreativePatterns/Prototype"
 	},
 	"version" : 
 	{
