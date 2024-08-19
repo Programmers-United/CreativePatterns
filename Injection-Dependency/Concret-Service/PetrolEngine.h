@@ -5,12 +5,20 @@
 #ifndef PETROLENGINE_H
 #define PETROLENGINE_H
 
+#include <iostream>
+using namespace std;
+#include <memory>
+#include "../Service/IEngine.h"
 
+class PetrolEngine: public IEngine {
+    public:
+        void start() const override {
+            cout << "\nMotor a combustao em uso!" << endl;
+        }
 
-class PetrolEngine {
-
+        string getType() const override {
+            return "Motor a combustao";
+        }
 };
-
-
 
 #endif //PETROLENGINE_H
